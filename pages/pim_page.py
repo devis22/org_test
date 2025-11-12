@@ -1,4 +1,4 @@
-from selenium.webdriver.common.by import By
+from selenium.webdriver.common.by import By,Keys
 
 class PIMPage:
     def __init__(self, driver):
